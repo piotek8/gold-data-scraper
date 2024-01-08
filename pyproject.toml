@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "get-gold-data-app"
+version = "0.1.0"
+description = ""
+authors = ["piotek8 <piotr.bator.contact@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+requests = "^2.31.0"
+pytest = "^7.4.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
