@@ -36,7 +36,7 @@ Use this documentations for learning and finding solutions to problems.
 Clone the project
 
 ```
-git clone git@github.com:piotek8/auto-sender.git
+git clone git@github.com:piotek8/gold-data-scraper.git
 ```
 Go to the project directory
 
